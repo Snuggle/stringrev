@@ -4,4 +4,5 @@ Each of these preserves the order of the letters in each word but reverses the a
 
 ## Example
 Input: `This is my string`
+
 Output: `string my is This`
